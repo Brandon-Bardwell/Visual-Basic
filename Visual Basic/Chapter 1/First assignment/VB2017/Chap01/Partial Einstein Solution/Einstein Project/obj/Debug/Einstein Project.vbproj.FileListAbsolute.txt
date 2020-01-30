@@ -1,0 +1,21 @@
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe.config
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.pdb
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\bin\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.Resources.resources
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.exe
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.xml
+E:\VB2017\Chap01\Data\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.pdb
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\My Einstein.exe.config
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\My Einstein.exe
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\My Einstein.pdb
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\bin\Debug\My Einstein.xml
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbprojAssemblyReference.cache
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.frmMain.resources
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein_Project.Resources.resources
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\Einstein Project.vbproj.GenerateResource.cache
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\My Einstein.exe
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\My Einstein.xml
+C:\Users\Brandon Bardwell\Desktop\SWOSU SPRING 2020\VISUAL BASIC\Visual-Basic\Chapter 1\VB2017\Chap01\Partial Einstein Solution\Einstein Project\obj\Debug\My Einstein.pdb

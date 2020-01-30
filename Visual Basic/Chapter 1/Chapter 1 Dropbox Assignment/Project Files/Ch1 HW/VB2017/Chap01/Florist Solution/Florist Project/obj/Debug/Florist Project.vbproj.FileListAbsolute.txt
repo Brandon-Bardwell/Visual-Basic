@@ -1,0 +1,12 @@
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\Florist Project.vbprojAssemblyReference.cache
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\Florist_Project.frmMain.resources
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\Florist_Project.Resources.resources
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\Florist Project.vbproj.GenerateResource.cache
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\Florist Project.vbproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\bin\Debug\MyFlorist.exe.config
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\bin\Debug\MyFlorist.exe
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\bin\Debug\MyFlorist.pdb
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\bin\Debug\MyFlorist.xml
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\MyFlorist.exe
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\MyFlorist.xml
+C:\Users\LAB\Desktop\SWOSU-Spring-2020\VISUAL BASIC\Visual Basic\Chapter 1\Chapter 1 Dropbox Assignment\Project Files\Ch1 HW\VB2017\Chap01\Florist Solution\Florist Project\obj\Debug\MyFlorist.pdb
