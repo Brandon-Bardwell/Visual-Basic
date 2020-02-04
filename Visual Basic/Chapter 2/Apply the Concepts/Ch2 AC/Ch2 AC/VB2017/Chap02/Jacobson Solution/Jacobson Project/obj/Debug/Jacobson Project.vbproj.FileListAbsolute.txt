@@ -1,0 +1,23 @@
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe.config
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.pdb
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.frmMain.resources
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.Resources.resources
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.exe
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.xml
+E:\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe.config
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\bin\Debug\Jacobson Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbprojAssemblyReference.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.frmMain.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson_Project.Resources.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbproj.GenerateResource.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.vbproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 2\Apply the Concepts\Ch2 AC\Ch2 AC\VB2017\Chap02\Jacobson Solution\Jacobson Project\obj\Debug\Jacobson Project.pdb
