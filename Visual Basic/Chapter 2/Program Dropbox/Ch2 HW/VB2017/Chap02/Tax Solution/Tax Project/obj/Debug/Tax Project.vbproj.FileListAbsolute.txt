@@ -1,0 +1,11 @@
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\bin\Debug\Tax Project.exe.config
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\bin\Debug\Tax Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\bin\Debug\Tax Project.pdb
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\bin\Debug\Tax Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax Project.vbprojAssemblyReference.cache
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax_Project.Form1.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax_Project.Resources.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax Project.vbproj.GenerateResource.cache
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 2\Program Dropbox\Ch2 HW\VB2017\Chap02\Tax Solution\Tax Project\obj\Debug\Tax Project.pdb
