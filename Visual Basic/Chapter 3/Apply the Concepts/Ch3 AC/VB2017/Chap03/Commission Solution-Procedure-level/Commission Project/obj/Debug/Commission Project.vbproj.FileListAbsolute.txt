@@ -1,0 +1,23 @@
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.exe.config
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.exe
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.pdb
+E:\VB2017\Chap03\Commission Solution\Commission Project\bin\Debug\Commission Project.xml
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission_Project.frmMain.resources
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission_Project.Resources.resources
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.exe
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.xml
+E:\VB2017\Chap03\Commission Solution\Commission Project\obj\Debug\Commission Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.exe.config
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\bin\Debug\Commission Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbprojAssemblyReference.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission_Project.frmMain.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission_Project.Resources.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbproj.GenerateResource.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.vbproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Commission Solution-Procedure-level\Commission Project\obj\Debug\Commission Project.pdb
