@@ -9,3 +9,14 @@ E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scor
 E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.exe
 E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.xml
 E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.pdb
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.pdb
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\bin\Debug\Total Scores Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.vbprojAssemblyReference.cache
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.cache
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 3\Apply the Concepts\Ch3 AC\VB2017\Chap03\Total Scores Solution-Static\Total Scores Project\obj\Debug\Total Scores Project.pdb

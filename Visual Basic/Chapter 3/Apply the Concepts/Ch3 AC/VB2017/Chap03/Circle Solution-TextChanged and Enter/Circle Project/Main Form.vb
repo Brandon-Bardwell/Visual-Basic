@@ -23,4 +23,20 @@ Public Class frmMain
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
         Me.Close()
     End Sub
+
+    Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub txtRadius_TextChanged(sender As Object, e As EventArgs) Handles txtRadius.TextChanged
+        ' Clear the Area Box
+
+        lblArea.Text = String.Empty
+    End Sub
+
+    Private Sub txtRadius_Enter(sender As Object, e As EventArgs) Handles txtRadius.Enter
+        ' Select the existing text.
+
+        txtRadius.SelectAll()
+    End Sub
 End Class
