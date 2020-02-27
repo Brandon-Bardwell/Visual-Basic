@@ -1,6 +1,6 @@
-﻿'Name:
-'Purpose:
-'Programmer:
+﻿'Name: Chapter 3 Dropbox   
+'Purpose: Calculating Tax
+'Programmer: Brandon Bardwell
 
 
 Option Explicit On
@@ -41,7 +41,12 @@ Public Class Form1
 
     End Sub
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles txtAssessed.TextChanged
 
+
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
+        ' clear the area box.
+
+        txtAssessed.Text = String.Empty
     End Sub
+
 End Class
