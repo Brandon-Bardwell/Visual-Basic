@@ -1,0 +1,34 @@
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Data\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojAssemblyReference.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.CoreCompileInputs.cache
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+C:\Users\LAB\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
