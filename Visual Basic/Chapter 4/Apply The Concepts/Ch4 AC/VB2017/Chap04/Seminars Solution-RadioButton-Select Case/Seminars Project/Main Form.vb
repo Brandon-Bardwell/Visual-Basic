@@ -15,6 +15,15 @@ Public Class frmMain
         ' Determine which radio button is selected  
         ' and assign the associated fee.
 
+        Select Case True
+            Case radFinance.Checked
+                intAmountDue = 150
+            Case radHealth.Checked
+                intAmountDue = 125
+            Case radMarketing.Checked
+                intAmountDue = 135
+        End Select
+
 
         lblAmountDue.Text = intAmountDue.ToString("C0")
     End Sub
@@ -35,6 +44,10 @@ Public Class frmMain
 
     Private Sub radMarketing_CheckedChanged(sender As Object, e As EventArgs) Handles radMarketing.CheckedChanged
         lblAmountDue.Text = String.Empty
+
+    End Sub
+
+    Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
 End Class

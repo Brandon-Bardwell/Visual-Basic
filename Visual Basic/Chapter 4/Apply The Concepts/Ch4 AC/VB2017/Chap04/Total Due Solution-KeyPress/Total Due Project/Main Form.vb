@@ -22,7 +22,7 @@ Public Class frmMain
         ' If the number purchased is at least 5, give the discount.
         If intPurchased >= 5 Then
             dblDiscount = dblTotalDue * dblDISCOUNT_RATE
-            dblTotalDue = dblTotalDue - dblDiscount
+            dblTotalDue -= dblTotalDue
         End If
 
         lblTotalDue.Text = dblTotalDue.ToString("C2")
@@ -38,5 +38,16 @@ Public Class frmMain
 
     Private Sub txtPurchased_TextChanged(sender As Object, e As EventArgs) Handles txtPurchased.TextChanged
         lblTotalDue.Text = String.Empty
+    End Sub
+
+    Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub txtPurchased_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtPurchased.KeyPress
+        ' allow the text box to accept only numbers and the backspace key.
+
+        If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso e.KeyChar <> ControlChars.Back Then e.Handled = True
+
     End Sub
 End Class

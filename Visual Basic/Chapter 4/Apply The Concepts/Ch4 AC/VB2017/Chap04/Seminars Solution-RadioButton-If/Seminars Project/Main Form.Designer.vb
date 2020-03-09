@@ -71,10 +71,12 @@ Partial Class frmMain
         'radFinance
         '
         Me.radFinance.AutoSize = True
+        Me.radFinance.Checked = True
         Me.radFinance.Location = New System.Drawing.Point(23, 15)
         Me.radFinance.Name = "radFinance"
         Me.radFinance.Size = New System.Drawing.Size(101, 19)
         Me.radFinance.TabIndex = 2
+        Me.radFinance.TabStop = True
         Me.radFinance.Text = "&Finance ($150)"
         Me.radFinance.UseVisualStyleBackColor = True
         '

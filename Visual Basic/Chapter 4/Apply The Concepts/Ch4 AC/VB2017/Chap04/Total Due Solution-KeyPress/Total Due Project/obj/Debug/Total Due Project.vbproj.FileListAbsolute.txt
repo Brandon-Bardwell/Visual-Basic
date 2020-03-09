@@ -9,3 +9,13 @@ E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Projec
 E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.exe
 E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.xml
 E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.pdb
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe.config
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.pdb
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.frmMain.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.Resources.resources
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.GenerateResource.cache
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.exe
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.xml
+C:\Users\Brandon Bardwell\Desktop\Visual-Basic\Visual Basic\Chapter 4\Apply The Concepts\Ch4 AC\VB2017\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.pdb

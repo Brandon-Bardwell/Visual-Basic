@@ -28,22 +28,28 @@ Partial Class frmMain
         Me.radMedium = New System.Windows.Forms.RadioButton()
         Me.radLarge = New System.Windows.Forms.RadioButton()
         Me.btnExit = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox1.SuspendLayout()
+        Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'radCoffee
         '
         Me.radCoffee.AutoSize = True
-        Me.radCoffee.Location = New System.Drawing.Point(273, 28)
+        Me.radCoffee.Checked = True
+        Me.radCoffee.Location = New System.Drawing.Point(6, 24)
         Me.radCoffee.Name = "radCoffee"
         Me.radCoffee.Size = New System.Drawing.Size(64, 21)
         Me.radCoffee.TabIndex = 1
+        Me.radCoffee.TabStop = True
         Me.radCoffee.Text = "&Coffee"
         Me.radCoffee.UseVisualStyleBackColor = True
         '
         'radTea
         '
         Me.radTea.AutoSize = True
-        Me.radTea.Location = New System.Drawing.Point(273, 55)
+        Me.radTea.Location = New System.Drawing.Point(6, 51)
         Me.radTea.Name = "radTea"
         Me.radTea.Size = New System.Drawing.Size(46, 21)
         Me.radTea.TabIndex = 2
@@ -53,17 +59,19 @@ Partial Class frmMain
         'radSmall
         '
         Me.radSmall.AutoSize = True
-        Me.radSmall.Location = New System.Drawing.Point(372, 28)
+        Me.radSmall.Checked = True
+        Me.radSmall.Location = New System.Drawing.Point(15, 22)
         Me.radSmall.Name = "radSmall"
         Me.radSmall.Size = New System.Drawing.Size(57, 21)
         Me.radSmall.TabIndex = 3
+        Me.radSmall.TabStop = True
         Me.radSmall.Text = "&Small"
         Me.radSmall.UseVisualStyleBackColor = True
         '
         'radMedium
         '
         Me.radMedium.AutoSize = True
-        Me.radMedium.Location = New System.Drawing.Point(372, 55)
+        Me.radMedium.Location = New System.Drawing.Point(15, 49)
         Me.radMedium.Name = "radMedium"
         Me.radMedium.Size = New System.Drawing.Size(74, 21)
         Me.radMedium.TabIndex = 4
@@ -73,7 +81,7 @@ Partial Class frmMain
         'radLarge
         '
         Me.radLarge.AutoSize = True
-        Me.radLarge.Location = New System.Drawing.Point(372, 82)
+        Me.radLarge.Location = New System.Drawing.Point(15, 76)
         Me.radLarge.Name = "radLarge"
         Me.radLarge.Size = New System.Drawing.Size(59, 21)
         Me.radLarge.TabIndex = 5
@@ -89,24 +97,47 @@ Partial Class frmMain
         Me.btnExit.Text = "E&xit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
+        'GroupBox1
+        '
+        Me.GroupBox1.Controls.Add(Me.radCoffee)
+        Me.GroupBox1.Controls.Add(Me.radTea)
+        Me.GroupBox1.Location = New System.Drawing.Point(17, 12)
+        Me.GroupBox1.Name = "GroupBox1"
+        Me.GroupBox1.Size = New System.Drawing.Size(141, 91)
+        Me.GroupBox1.TabIndex = 6
+        Me.GroupBox1.TabStop = False
+        Me.GroupBox1.Text = "Type"
+        '
+        'GroupBox2
+        '
+        Me.GroupBox2.Controls.Add(Me.radLarge)
+        Me.GroupBox2.Controls.Add(Me.radMedium)
+        Me.GroupBox2.Controls.Add(Me.radSmall)
+        Me.GroupBox2.Location = New System.Drawing.Point(357, 6)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(98, 116)
+        Me.GroupBox2.TabIndex = 7
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Size"
+        '
         'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 17.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(487, 207)
+        Me.Controls.Add(Me.GroupBox2)
+        Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.btnExit)
-        Me.Controls.Add(Me.radLarge)
-        Me.Controls.Add(Me.radMedium)
-        Me.Controls.Add(Me.radSmall)
-        Me.Controls.Add(Me.radTea)
-        Me.Controls.Add(Me.radCoffee)
         Me.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.MaximizeBox = False
         Me.Name = "frmMain"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Radio Button Groups"
+        Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox1.PerformLayout()
+        Me.GroupBox2.ResumeLayout(False)
+        Me.GroupBox2.PerformLayout()
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
 
@@ -116,4 +147,6 @@ Partial Class frmMain
     Friend WithEvents radMedium As RadioButton
     Friend WithEvents radLarge As RadioButton
     Friend WithEvents btnExit As Button
+    Friend WithEvents GroupBox1 As GroupBox
+    Friend WithEvents GroupBox2 As GroupBox
 End Class
