@@ -52,4 +52,8 @@ Public Class frmMain
         lblAmountDue.Text = String.Empty
 
     End Sub
+
+    Private Sub lblAmountDue_Click(sender As Object, e As EventArgs) Handles lblAmountDue.Click
+
+    End Sub
 End Class
